@@ -1,8 +1,11 @@
 # SuperStoreOrders-Data-Analytics-using-python
 
-I'll be performing a 10days Data Analytics Challenge on a Super Store Orders Database of over 50,000 data to find insights, trends, patterns and come up with business decisions.
+# INTRODUCTION
+
+
+I took part in a 10days Data Analytics Challenge on a Super Store Orders Database of over 50,000 data to find insights, trends, patterns and come up with business decisions.
 I will be using python and Tableau for this project.
-Today, I will be defining the project objectives
+let me start by defining the project objectives
 
 1. Which product has the highest number of sales and in which country and region?
 
@@ -23,6 +26,9 @@ The dataset
 
 Firstly, Data Cleaning is a very important part of Data Analysis because real-world datasets frequently include a variety of problems,including outliers, inaccurate or inconsistent data entries, duplicate records, missing values, inconsistent formatting, and inconsistent formatting. These problems may occur as a result of human error during data entry, computer errors,
 data integration from several sources, or other circumstances.
+
+# DATA CLEANING
+
 HERE ARE SOME OF THE PRIMARY OBJECTIVES WE CARRY OUT DATA CLEANING
 
   1.REMOVING IRRELEVANT OR REDUNDANT DATA: This entails removing variables or columns that do not help to the analysis,
@@ -35,12 +41,14 @@ imputing them (estimating the missing values based on other data points) or elim
 representations of the same value (e.g., "USA," "United States"), or contradicting information must be handled. This could entail
 standardizing formats, merging comparable categories, or resolving conflicting values via manual or automated processes.
 
-I did DESCRIPTIVE (STATISTICAL) ANALYSIS on the dataset so as to derive more insight from the data.
+Next we do DESCRIPTIVE (STATISTICAL) ANALYSIS on the dataset so as to derive more insight from the data.
 This is an integral part of EXPLORATORY DATA ANALYSIS (EDA) and a key aspect to help us derive deeper meaning from our data
 
-I filtered and splited the data into different years available in the dataset: 2011, 2012, 2013, 2014 and then from 2011 to 2014.
+filtering and spliting the data into different years available in the dataset: 2011, 2012, 2013, 2014 and then from 2011 to 2014.
 
-And many more analysis were done which include Important KPI such as
+And many more analysis were done which include Important KPI
+
+# KPI OUTPUT
 
 DISCOUNT VS SALES, QTY AND PROFIT
 
@@ -56,9 +64,11 @@ DESCRIPTIVE ANALYSIS
 SHIPPING VS PRODUCT,SALES AND PROFIT
 [Shipping Cost VS product,Sales and Profit.xlsx](https://github.com/Hykze1/SuperStoreOrders-Data-Analytics-using-python/files/12026612/Shipping.Cost.VS.product.Sales.and.Profit.xlsx)
 
-Tableau visualization
+# Tableau visualization
 
 ![tableaux ike 2](https://github.com/Hykze1/SuperStoreOrders-Data-Analytics-using-python/assets/100960483/8b3bece2-7a22-4501-ba3e-cd469ac4d3b9)
+
+# KPI ANALYSIS AND BUSINESS ADVICE
 
 KPI 1:
 The chat shows that the store is facing lower profits due to high shipping costs, here are some advice and strategies that can be considered:
